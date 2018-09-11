@@ -1,0 +1,9 @@
+---
+title: "Notes for Data Carpentry Genomics Teaching: Cloud computing unit"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+

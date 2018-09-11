@@ -1,0 +1,24 @@
+---
+title: "Notes for Data Carpentry Genomics Teaching: Project Organization unit"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+*Write learning objectives on a white board*
+
+## Project organization learning objectives
+
+- Data tidiness  
+    - Think about and understand the types of metadata a sequencing experiment will generate.    
+    - Understand the importance of metadata and potential metadata standards    
+    - Explore common formatting challenges in spreadsheet data    
+- Planning for NGS experiments    
+    - Understand the data we send to and get back from a sequencing center    
+    - Make decisions about how (if) data will be stored, archived, shared, etc.    
+- Examining Data on the NCBI SRA Database    
+    - Be aware that public genomic data is available    
+    - Understand how to access and download this data
+
