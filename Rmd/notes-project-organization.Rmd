@@ -7,6 +7,8 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+* Think about opportunities to show data & files on my computer*
+
 *Write learning objectives on a white board*
 
 ## Project organization learning objectives
@@ -21,4 +23,19 @@ knitr::opts_chunk$set(echo = TRUE)
 - Examining Data on the NCBI SRA Database    
     - Be aware that public genomic data is available    
     - Understand how to access and download this data
+
+## Data tidiness
+
+
+
+
+## Planning for NGS experiments
+
+
+
+## Examining data on NCBI SRA Database
+
+
+
+
 
